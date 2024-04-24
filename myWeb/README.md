@@ -4,7 +4,7 @@
 
 ## Development
 
-Run the Vite dev server:
+Run the Vite dev server:1
 
 ```shellscript
 npm run dev
